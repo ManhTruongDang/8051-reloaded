@@ -27,6 +27,8 @@ Tham khảo:
 
 [6] 74LS590 datasheet
 
+[7] Bài giảng môn vi xử lý của thầy Vũ Đức Trọng, giảng viên viện Điện, Đại học Bách Khoa Hà Nội
+
 ADC counter:
 
 ![](https://user-images.githubusercontent.com/20016033/33467010-349bb6da-d684-11e7-91ec-5cd4825b8bed.PNG?raw=true "")
